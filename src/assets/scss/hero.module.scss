@@ -1,0 +1,23 @@
+/* stylelint-disable at-rule-no-unknown */
+/* stylelint-disable csstree/validator */
+@use './_colors.scss' as color;
+
+.hero {
+  padding-top: 100px;
+  padding-inline-start: 2rem;
+
+  &__title {
+    font-size: 2rem;
+    font-family: 700;
+  }
+
+  &__btn {
+    background-color: color.$vivid-orange;
+    border: 2px solid color.$medium-grey;
+
+    &:hover {
+      background-color: color.$dark-grey;
+      color: color.$white;
+    }
+  }
+}
