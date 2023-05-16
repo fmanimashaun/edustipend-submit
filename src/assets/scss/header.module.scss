@@ -16,11 +16,6 @@
       color: color.$black;
     }
 
-    button:not(:last-child):hover {
-      background-color: rgba(255, 153, 0, 0.2);
-      color: color.$black;
-    }
-
     button:last-child {
       background-color: color.$vivid-orange;
       border: 2px solid color.$medium-grey;
@@ -29,6 +24,11 @@
         background-color: color.$dark-grey;
         color: color.$white;
       }
+    }
+
+    button:not(:last-child):hover {
+      background-color: rgba(255, 153, 0, 0.2);
+      color: color.$black;
     }
   }
 }
