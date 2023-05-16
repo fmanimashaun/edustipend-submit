@@ -1,0 +1,39 @@
+/* stylelint-disable at-rule-no-unknown */
+/* stylelint-disable csstree/validator */
+@use './_colors.scss' as color;
+
+.card {
+  max-width: fit-content;
+  padding: 1rem;
+  background-color: color.$dark-grey;
+
+  &__title {
+    margin-block: 0;
+    font-size: 1.5rem;
+    text-align: center;
+    font-weight: 600;
+  }
+
+  &__song {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 0.5rem;
+    font-size: 1rem;
+    font-family: 400;
+    background-color: color.$white;
+    border: 2px solid color.$medium-grey;
+  }
+
+  &__btn {
+    width: fit-content;
+    margin-inline: auto;
+    background-color: color.$vivid-orange;
+    border: 2px solid color.$medium-grey;
+
+    &:hover {
+      background-color: color.$dark-grey;
+      color: color.$white;
+    }
+  }
+}
