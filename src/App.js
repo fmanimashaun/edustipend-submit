@@ -1,9 +1,12 @@
 import React from 'react';
+import Header from 'components/Header';
+import Main from 'components/Main';
 
 const App = () => (
-  <div>
-    <h1>React Redux Template</h1>
-  </div>
+  <>
+    <Header />
+    <Main />
+  </>
 );
 
 export default App;
