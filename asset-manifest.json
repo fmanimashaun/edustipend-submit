@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/edustipend-submit/static/css/main.ccb86245.css",
+    "main.js": "/edustipend-submit/static/js/main.f3b06652.js",
+    "index.html": "/edustipend-submit/index.html",
+    "main.ccb86245.css.map": "/edustipend-submit/static/css/main.ccb86245.css.map",
+    "main.f3b06652.js.map": "/edustipend-submit/static/js/main.f3b06652.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ccb86245.css",
+    "static/js/main.f3b06652.js"
+  ]
+}
