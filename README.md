@@ -2,7 +2,7 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <img src="src/assets/images/logo.png" alt="logo" width="140"  height="auto" />
+  <img src="src/assets/img/logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 </div>
 
@@ -15,6 +15,7 @@
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
   - [🚀 Live Demo](#live-demo)
+  - [📷 Screenshot](#screenshot)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -75,6 +76,10 @@ Based on the given [mockup](#mockup), the following can be identified as the cor
 
 
 - [Live Demo Link](https://fmanimashaun.github.io/edustipend-submit/)
+
+## 📷 Screenshot <a name="screenshot"></a>
+
+![](screenshots/deskop.png)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
