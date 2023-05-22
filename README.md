@@ -44,10 +44,11 @@ The project is divided into two parts:
 
 ![](src/assets/img/mockup.png)
 
-Based on the given [mockup](#mockup), the following can be identified as the core components of the project:
-- **Header component:** this component contains the contact us link, signup button component.
-- **Hero component:** Here, we have a heading text, a subtext and a button component.
-- **Aside card component:** Here, we have a heading text, a series if list item component showing trending songs and icon and "see more" button component.
+Based on the given mockup, the following can be identified as the core components of the project:
+
+- Header component: contains the contact us link and signup button component.
+- Hero component: Here, we have a heading text, a subtext and a button component.
+- Aside card component: Here, we have a heading text, list item components showing trending songs and icons and a "see more" button component.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
